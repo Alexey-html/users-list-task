@@ -1,0 +1,40 @@
+.settingsBlock{
+  position: relative;
+}
+
+.settingsBlock p{
+  padding: 0 0 15px 0;
+  color:#e3e3ed;
+  font-size: 16px;
+}
+
+.settingsBlock p:first-child{
+  padding: 15px 25px 15px 25px;
+  border-radius: 10px;
+  margin: 15px 0 20px 0;
+  background: #0f102e;
+  display: flex;
+  align-items: center;
+}
+
+.settingsBlock p:first-child img{
+  width: 55px;
+  height: 55px;
+  margin: 0 15px 0 0;
+}
+
+.settingsImg{
+  margin: 10px 0 20px 0;
+  text-align: center;
+}
+
+.h1{
+  font-size: 28px;
+  color: #fff;
+  font-weight: 400;
+  margin: -32px 25px 0 0;
+  position: relative;
+  top: -33px;
+  display: flex;
+  width: 30%;
+}
